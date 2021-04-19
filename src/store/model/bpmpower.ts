@@ -33,6 +33,13 @@ export const BpmPower: Store = {
     },
     {
       brand: 'amd',
+      model: '5600x',
+      series: 'ryzen5600',
+      url:
+        'https://www.bpm-power.com/it/online/componenti-pc/processori/cpu-amd-ryzen-5-b1710140',
+    },
+    {
+      brand: 'amd',
       model: '5800x',
       series: 'ryzen5800',
       url:
